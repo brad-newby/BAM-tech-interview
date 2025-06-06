@@ -1,0 +1,1541 @@
+{
+  "StargateAPI.dll": {
+    "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Program.cs": {
+      "Program": {
+        "System.Void Program::<Main>$(System.String[])": {
+          "Lines": {
+            "7": 0,
+            "11": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "26": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "35": 0,
+            "37": 0,
+            "39": 0,
+            "41": 0,
+            "43": 0
+          },
+          "Branches": [
+            {
+              "Line": 29,
+              "Offset": 191,
+              "EndOffset": 193,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 191,
+              "EndOffset": 211,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 23,
+              "EndOffset": 25,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 23,
+              "EndOffset": 37,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Service\\LogService.cs": {
+      "StargateAPI.Service.LogService": {
+        "System.Void StargateAPI.Service.LogService::.ctor(MediatR.IMediator)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Service.LogService/<Log>d__2": {
+        "System.Void StargateAPI.Service.LogService/<Log>d__2::MoveNext()": {
+          "Lines": {
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "28": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "35": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Migrations\\20250605095845_initialCreate.cs": {
+      "StargateAPI.Migrations.initialCreate": {
+        "System.Void StargateAPI.Migrations.initialCreate::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0
+          },
+          "Branches": []
+        },
+        "System.Void StargateAPI.Migrations.initialCreate::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "132": 0,
+            "133": 0,
+            "135": 0,
+            "136": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Migrations\\20250605095845_initialCreate.Designer.cs": {
+      "StargateAPI.Migrations.initialCreate": {
+        "System.Void StargateAPI.Migrations.initialCreate::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "19": 0,
+            "21": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "168": 0,
+            "169": 0,
+            "170": 0,
+            "171": 0,
+            "172": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "181": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Migrations\\StargateContextModelSnapshot.cs": {
+      "StargateAPI.Migrations.StargateContextModelSnapshot": {
+        "System.Void StargateAPI.Migrations.StargateContextModelSnapshot::BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "16": 0,
+            "18": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "160": 0,
+            "161": 0,
+            "162": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "168": 0,
+            "169": 0,
+            "171": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "178": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Controllers\\AstronautDutyController.cs": {
+      "StargateAPI.Controllers.AstronautDutyController": {
+        "System.Void StargateAPI.Controllers.AstronautDutyController::.ctor(MediatR.IMediator,StargateAPI.Interface.ILogService)": {
+          "Lines": {
+            "16": 2,
+            "17": 2,
+            "18": 2,
+            "19": 2,
+            "20": 2
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Controllers.AstronautDutyController/<CreateAstronautDuty>d__4": {
+        "System.Void StargateAPI.Controllers.AstronautDutyController/<CreateAstronautDuty>d__4::MoveNext()": {
+          "Lines": {
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Controllers.AstronautDutyController/<GetAstronautDutiesByName>d__3": {
+        "System.Void StargateAPI.Controllers.AstronautDutyController/<GetAstronautDutiesByName>d__3::MoveNext()": {
+          "Lines": {
+            "24": 2,
+            "26": 2,
+            "27": 2,
+            "28": 2,
+            "29": 2,
+            "30": 2,
+            "32": 1,
+            "33": 1,
+            "35": 1,
+            "36": 1,
+            "37": 1,
+            "38": 1,
+            "39": 1,
+            "40": 1,
+            "41": 1,
+            "42": 1,
+            "43": 1,
+            "45": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Controllers\\BaseResponse.cs": {
+      "StargateAPI.Controllers.BaseResponse": {
+        "System.Boolean StargateAPI.Controllers.BaseResponse::get_Success()": {
+          "Lines": {
+            "7": 14
+          },
+          "Branches": []
+        },
+        "System.String StargateAPI.Controllers.BaseResponse::get_Message()": {
+          "Lines": {
+            "8": 14
+          },
+          "Branches": []
+        },
+        "System.Int32 StargateAPI.Controllers.BaseResponse::get_ResponseCode()": {
+          "Lines": {
+            "9": 18
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Controllers\\ControllerBaseExtensions.cs": {
+      "StargateAPI.Controllers.ControllerBaseExtensions": {
+        "Microsoft.AspNetCore.Mvc.IActionResult StargateAPI.Controllers.ControllerBaseExtensions::GetResponse(Microsoft.AspNetCore.Mvc.ControllerBase,StargateAPI.Controllers.BaseResponse)": {
+          "Lines": {
+            "9": 4,
+            "10": 4,
+            "11": 4,
+            "12": 4,
+            "13": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Controllers\\PersonController.cs": {
+      "StargateAPI.Controllers.PersonController": {
+        "System.Void StargateAPI.Controllers.PersonController::.ctor(MediatR.IMediator,StargateAPI.Interface.ILogService)": {
+          "Lines": {
+            "18": 2,
+            "19": 2,
+            "20": 2,
+            "21": 2,
+            "22": 2
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Controllers.PersonController/<CreatePerson>d__5": {
+        "System.Void StargateAPI.Controllers.PersonController/<CreatePerson>d__5::MoveNext()": {
+          "Lines": {
+            "76": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "97": 0
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Controllers.PersonController/<GetPeople>d__3": {
+        "System.Void StargateAPI.Controllers.PersonController/<GetPeople>d__3::MoveNext()": {
+          "Lines": {
+            "26": 2,
+            "28": 2,
+            "29": 2,
+            "30": 2,
+            "31": 2,
+            "32": 2,
+            "33": 1,
+            "34": 1,
+            "36": 1,
+            "37": 1,
+            "38": 1,
+            "39": 1,
+            "40": 1,
+            "41": 1,
+            "42": 1,
+            "43": 1,
+            "44": 1,
+            "45": 1,
+            "47": 2
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Controllers.PersonController/<GetPersonByName>d__4": {
+        "System.Void StargateAPI.Controllers.PersonController/<GetPersonByName>d__4::MoveNext()": {
+          "Lines": {
+            "51": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "59": 0,
+            "60": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "72": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Queries\\GetAstronautDutiesByName.cs": {
+      "StargateAPI.Business.Queries.GetAstronautDutiesByName": {
+        "System.String StargateAPI.Business.Queries.GetAstronautDutiesByName::get_Name()": {
+          "Lines": {
+            "11": 7
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Queries.GetAstronautDutiesByNameHandler": {
+        "System.Void StargateAPI.Business.Queries.GetAstronautDutiesByNameHandler::.ctor(StargateAPI.Business.Data.StargateContext)": {
+          "Lines": {
+            "18": 1,
+            "19": 1,
+            "20": 1,
+            "21": 1
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Queries.GetAstronautDutiesByNameHandler/<Handle>d__2": {
+        "System.Void StargateAPI.Business.Queries.GetAstronautDutiesByNameHandler/<Handle>d__2::MoveNext()": {
+          "Lines": {
+            "24": 1,
+            "26": 1,
+            "28": 1,
+            "30": 1,
+            "32": 1,
+            "34": 1,
+            "36": 1,
+            "38": 1,
+            "40": 1,
+            "42": 1
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Queries.GetAstronautDutiesByNameResult": {
+        "StargateAPI.Business.Dtos.PersonAstronaut StargateAPI.Business.Queries.GetAstronautDutiesByNameResult::get_Person()": {
+          "Lines": {
+            "47": 5
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<StargateAPI.Business.Data.AstronautDuty> StargateAPI.Business.Queries.GetAstronautDutiesByNameResult::get_AstronautDuties()": {
+          "Lines": {
+            "48": 8
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Queries\\GetPeople.cs": {
+      "StargateAPI.Business.Queries.GetPeopleHandler": {
+        "System.Void StargateAPI.Business.Queries.GetPeopleHandler::.ctor(StargateAPI.Business.Data.StargateContext)": {
+          "Lines": {
+            "17": 1,
+            "18": 1,
+            "19": 1,
+            "20": 1
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Queries.GetPeopleHandler/<Handle>d__2": {
+        "System.Void StargateAPI.Business.Queries.GetPeopleHandler/<Handle>d__2::MoveNext()": {
+          "Lines": {
+            "22": 1,
+            "23": 1,
+            "25": 1,
+            "27": 1,
+            "29": 1,
+            "31": 1,
+            "32": 1
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Queries.GetPeopleResult": {
+        "System.Collections.Generic.List`1<StargateAPI.Business.Dtos.PersonAstronaut> StargateAPI.Business.Queries.GetPeopleResult::get_People()": {
+          "Lines": {
+            "37": 7
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Queries\\GetPersonByName.cs": {
+      "StargateAPI.Business.Queries.GetPersonByName": {
+        "System.String StargateAPI.Business.Queries.GetPersonByName::get_Name()": {
+          "Lines": {
+            "11": 3
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Queries.GetPersonByNameHandler": {
+        "System.Void StargateAPI.Business.Queries.GetPersonByNameHandler::.ctor(StargateAPI.Business.Data.StargateContext)": {
+          "Lines": {
+            "17": 1,
+            "18": 1,
+            "19": 1,
+            "20": 1
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Queries.GetPersonByNameHandler/<Handle>d__2": {
+        "System.Void StargateAPI.Business.Queries.GetPersonByNameHandler/<Handle>d__2::MoveNext()": {
+          "Lines": {
+            "23": 1,
+            "24": 1,
+            "26": 1,
+            "28": 1,
+            "30": 1,
+            "32": 1,
+            "33": 1
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Queries.GetPersonByNameResult": {
+        "StargateAPI.Business.Dtos.PersonAstronaut StargateAPI.Business.Queries.GetPersonByNameResult::get_Person()": {
+          "Lines": {
+            "38": 3
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Dtos\\PersonAstronaut.cs": {
+      "StargateAPI.Business.Dtos.PersonAstronaut": {
+        "System.Int32 StargateAPI.Business.Dtos.PersonAstronaut::get_PersonId()": {
+          "Lines": {
+            "5": 11
+          },
+          "Branches": []
+        },
+        "System.String StargateAPI.Business.Dtos.PersonAstronaut::get_Name()": {
+          "Lines": {
+            "7": 22
+          },
+          "Branches": []
+        },
+        "System.String StargateAPI.Business.Dtos.PersonAstronaut::get_CurrentRank()": {
+          "Lines": {
+            "9": 20
+          },
+          "Branches": []
+        },
+        "System.String StargateAPI.Business.Dtos.PersonAstronaut::get_CurrentDutyTitle()": {
+          "Lines": {
+            "11": 13
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> StargateAPI.Business.Dtos.PersonAstronaut::get_CareerStartDate()": {
+          "Lines": {
+            "13": 3
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> StargateAPI.Business.Dtos.PersonAstronaut::get_CareerEndDate()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Data\\AstronautDetail.cs": {
+      "StargateAPI.Business.Data.AstronautDetail": {
+        "System.Int32 StargateAPI.Business.Data.AstronautDetail::get_Id()": {
+          "Lines": {
+            "10": 3
+          },
+          "Branches": []
+        },
+        "System.Int32 StargateAPI.Business.Data.AstronautDetail::get_PersonId()": {
+          "Lines": {
+            "12": 3
+          },
+          "Branches": []
+        },
+        "System.String StargateAPI.Business.Data.AstronautDetail::get_CurrentRank()": {
+          "Lines": {
+            "14": 7
+          },
+          "Branches": []
+        },
+        "System.String StargateAPI.Business.Data.AstronautDetail::get_CurrentDutyTitle()": {
+          "Lines": {
+            "16": 7
+          },
+          "Branches": []
+        },
+        "System.DateTime StargateAPI.Business.Data.AstronautDetail::get_CareerStartDate()": {
+          "Lines": {
+            "18": 3
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> StargateAPI.Business.Data.AstronautDetail::get_CareerEndDate()": {
+          "Lines": {
+            "20": 0
+          },
+          "Branches": []
+        },
+        "StargateAPI.Business.Data.Person StargateAPI.Business.Data.AstronautDetail::get_Person()": {
+          "Lines": {
+            "22": 0
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Data.AstronautDetailConfiguration": {
+        "System.Void StargateAPI.Business.Data.AstronautDetailConfiguration::Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder`1<StargateAPI.Business.Data.AstronautDetail>)": {
+          "Lines": {
+            "28": 2,
+            "29": 2,
+            "30": 2,
+            "31": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Data\\AstronautDuty.cs": {
+      "StargateAPI.Business.Data.AstronautDuty": {
+        "System.Int32 StargateAPI.Business.Data.AstronautDuty::get_Id()": {
+          "Lines": {
+            "10": 7
+          },
+          "Branches": []
+        },
+        "System.Int32 StargateAPI.Business.Data.AstronautDuty::get_PersonId()": {
+          "Lines": {
+            "12": 7
+          },
+          "Branches": []
+        },
+        "System.String StargateAPI.Business.Data.AstronautDuty::get_Rank()": {
+          "Lines": {
+            "14": 14
+          },
+          "Branches": []
+        },
+        "System.String StargateAPI.Business.Data.AstronautDuty::get_DutyTitle()": {
+          "Lines": {
+            "16": 14
+          },
+          "Branches": []
+        },
+        "System.DateTime StargateAPI.Business.Data.AstronautDuty::get_DutyStartDate()": {
+          "Lines": {
+            "18": 7
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> StargateAPI.Business.Data.AstronautDuty::get_DutyEndDate()": {
+          "Lines": {
+            "20": 2
+          },
+          "Branches": []
+        },
+        "StargateAPI.Business.Data.Person StargateAPI.Business.Data.AstronautDuty::get_Person()": {
+          "Lines": {
+            "22": 0
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Data.AstronautDutyConfiguration": {
+        "System.Void StargateAPI.Business.Data.AstronautDutyConfiguration::Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder`1<StargateAPI.Business.Data.AstronautDuty>)": {
+          "Lines": {
+            "28": 2,
+            "29": 2,
+            "30": 2,
+            "31": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Data\\Logs.cs": {
+      "StargateAPI.Business.Data.Logs": {
+        "System.Int32 StargateAPI.Business.Data.Logs::get_Id()": {
+          "Lines": {
+            "10": 1
+          },
+          "Branches": []
+        },
+        "System.String StargateAPI.Business.Data.Logs::get_Message()": {
+          "Lines": {
+            "12": 2
+          },
+          "Branches": []
+        },
+        "System.DateTime StargateAPI.Business.Data.Logs::get_MessageDate()": {
+          "Lines": {
+            "14": 1
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Data.LogsConfiguration": {
+        "System.Void StargateAPI.Business.Data.LogsConfiguration::Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder`1<StargateAPI.Business.Data.Logs>)": {
+          "Lines": {
+            "21": 2,
+            "22": 2,
+            "23": 2,
+            "24": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Data\\Person.cs": {
+      "StargateAPI.Business.Data.Person": {
+        "System.Int32 StargateAPI.Business.Data.Person::get_Id()": {
+          "Lines": {
+            "10": 9
+          },
+          "Branches": []
+        },
+        "System.String StargateAPI.Business.Data.Person::get_Name()": {
+          "Lines": {
+            "12": 12
+          },
+          "Branches": []
+        },
+        "StargateAPI.Business.Data.AstronautDetail StargateAPI.Business.Data.Person::get_AstronautDetail()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<StargateAPI.Business.Data.AstronautDuty> StargateAPI.Business.Data.Person::get_AstronautDuties()": {
+          "Lines": {
+            "16": 6
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Data.PersonConfiguration": {
+        "System.Void StargateAPI.Business.Data.PersonConfiguration::Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder`1<StargateAPI.Business.Data.Person>)": {
+          "Lines": {
+            "25": 2,
+            "26": 2,
+            "27": 2,
+            "28": 2,
+            "29": 2,
+            "30": 2,
+            "31": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Data\\StargateContext.cs": {
+      "StargateAPI.Business.Data.StargateContext": {
+        "System.Data.IDbConnection StargateAPI.Business.Data.StargateContext::get_Connection()": {
+          "Lines": {
+            "9": 7
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<StargateAPI.Business.Data.Person> StargateAPI.Business.Data.StargateContext::get_People()": {
+          "Lines": {
+            "10": 13
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<StargateAPI.Business.Data.AstronautDetail> StargateAPI.Business.Data.StargateContext::get_AstronautDetails()": {
+          "Lines": {
+            "11": 13
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<StargateAPI.Business.Data.AstronautDuty> StargateAPI.Business.Data.StargateContext::get_AstronautDuties()": {
+          "Lines": {
+            "12": 14
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<StargateAPI.Business.Data.Logs> StargateAPI.Business.Data.StargateContext::get_Logs()": {
+          "Lines": {
+            "13": 13
+          },
+          "Branches": []
+        },
+        "System.Void StargateAPI.Business.Data.StargateContext::OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "21": 2,
+            "22": 2,
+            "24": 2,
+            "26": 2,
+            "27": 2
+          },
+          "Branches": []
+        },
+        "System.Void StargateAPI.Business.Data.StargateContext::SeedData(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "30": 2,
+            "32": 2,
+            "33": 2,
+            "34": 2,
+            "35": 2,
+            "36": 2,
+            "37": 2,
+            "38": 2,
+            "39": 2,
+            "40": 2,
+            "41": 2,
+            "42": 2,
+            "43": 2,
+            "44": 2,
+            "46": 2,
+            "47": 2,
+            "48": 2,
+            "49": 2,
+            "50": 2,
+            "51": 2,
+            "52": 2,
+            "53": 2,
+            "54": 2,
+            "55": 2,
+            "56": 2,
+            "58": 2,
+            "59": 2,
+            "60": 2,
+            "61": 2,
+            "62": 2,
+            "63": 2,
+            "64": 2,
+            "65": 2,
+            "66": 2,
+            "67": 2,
+            "68": 2,
+            "69": 2
+          },
+          "Branches": []
+        },
+        "System.Void StargateAPI.Business.Data.StargateContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<StargateAPI.Business.Data.StargateContext>)": {
+          "Lines": {
+            "16": 12,
+            "17": 12,
+            "18": 12
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Commands\\CreateAstronautDuty.cs": {
+      "StargateAPI.Business.Commands.CreateAstronautDuty": {
+        "System.String StargateAPI.Business.Commands.CreateAstronautDuty::get_Name()": {
+          "Lines": {
+            "14": 2
+          },
+          "Branches": []
+        },
+        "System.String StargateAPI.Business.Commands.CreateAstronautDuty::get_Rank()": {
+          "Lines": {
+            "16": 3
+          },
+          "Branches": []
+        },
+        "System.String StargateAPI.Business.Commands.CreateAstronautDuty::get_DutyTitle()": {
+          "Lines": {
+            "18": 4
+          },
+          "Branches": []
+        },
+        "System.DateTime StargateAPI.Business.Commands.CreateAstronautDuty::get_DutyStartDate()": {
+          "Lines": {
+            "20": 3
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Commands.CreateAstronautDutyPreProcessor": {
+        "System.Threading.Tasks.Task StargateAPI.Business.Commands.CreateAstronautDutyPreProcessor::Process(StargateAPI.Business.Commands.CreateAstronautDuty,System.Threading.CancellationToken)": {
+          "Lines": {
+            "33": 0,
+            "34": 0,
+            "36": 0,
+            "38": 0,
+            "40": 0,
+            "42": 0,
+            "43": 0
+          },
+          "Branches": [
+            {
+              "Line": 36,
+              "Offset": 157,
+              "EndOffset": 159,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 36,
+              "Offset": 157,
+              "EndOffset": 170,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 406,
+              "EndOffset": 408,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 406,
+              "EndOffset": 419,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void StargateAPI.Business.Commands.CreateAstronautDutyPreProcessor::.ctor(StargateAPI.Business.Data.StargateContext)": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Commands.CreateAstronautDutyHandler": {
+        "System.Void StargateAPI.Business.Commands.CreateAstronautDutyHandler::.ctor(StargateAPI.Business.Data.StargateContext)": {
+          "Lines": {
+            "50": 1,
+            "51": 1,
+            "52": 1,
+            "53": 1
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Commands.CreateAstronautDutyHandler/<Handle>d__2": {
+        "System.Void StargateAPI.Business.Commands.CreateAstronautDutyHandler/<Handle>d__2::MoveNext()": {
+          "Lines": {
+            "55": 1,
+            "57": 1,
+            "59": 1,
+            "61": 1,
+            "64": 1,
+            "67": 1,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "79": 0,
+            "81": 0,
+            "83": 1,
+            "84": 1,
+            "85": 1,
+            "86": 1,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 1,
+            "91": 1,
+            "95": 1,
+            "98": 1,
+            "100": 1,
+            "101": 1,
+            "102": 1,
+            "103": 1,
+            "104": 1,
+            "106": 1,
+            "107": 1,
+            "108": 1,
+            "109": 1,
+            "110": 1,
+            "111": 1,
+            "112": 1,
+            "113": 1,
+            "115": 1,
+            "117": 1,
+            "119": 1,
+            "120": 1,
+            "121": 1,
+            "122": 1,
+            "123": 1
+          },
+          "Branches": [
+            {
+              "Line": 67,
+              "Offset": 512,
+              "EndOffset": 517,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 74,
+              "Offset": 655,
+              "EndOffset": 657,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 74,
+              "Offset": 655,
+              "EndOffset": 714,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 67,
+              "Offset": 512,
+              "EndOffset": 855,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 86,
+              "Offset": 927,
+              "EndOffset": 929,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 86,
+              "Offset": 927,
+              "EndOffset": 986,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            },
+            {
+              "Line": 100,
+              "Offset": 1262,
+              "EndOffset": 1264,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 100,
+              "Offset": 1262,
+              "EndOffset": 1349,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "StargateAPI.Business.Commands.CreateAstronautDutyResult": {
+        "System.Nullable`1<System.Int32> StargateAPI.Business.Commands.CreateAstronautDutyResult::get_Id()": {
+          "Lines": {
+            "128": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Commands\\CreateLog.cs": {
+      "StargateAPI.Business.Commands.CreateLog": {
+        "System.String StargateAPI.Business.Commands.CreateLog::get_Message()": {
+          "Lines": {
+            "11": 3
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Commands.CreateLogHandler": {
+        "System.Void StargateAPI.Business.Commands.CreateLogHandler::.ctor(StargateAPI.Business.Data.StargateContext)": {
+          "Lines": {
+            "18": 1,
+            "19": 1,
+            "20": 1,
+            "21": 1
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Commands.CreateLogHandler/<Handle>d__2": {
+        "System.Void StargateAPI.Business.Commands.CreateLogHandler/<Handle>d__2::MoveNext()": {
+          "Lines": {
+            "23": 1,
+            "25": 1,
+            "26": 1,
+            "27": 1,
+            "28": 1,
+            "29": 1,
+            "31": 1,
+            "33": 1,
+            "35": 1,
+            "36": 1,
+            "37": 1,
+            "38": 1,
+            "40": 1
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Commands.CreateLogResult": {
+        "System.Int32 StargateAPI.Business.Commands.CreateLogResult::get_Id()": {
+          "Lines": {
+            "45": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Commands\\CreatePerson.cs": {
+      "StargateAPI.Business.Commands.CreatePerson": {
+        "System.String StargateAPI.Business.Commands.CreatePerson::get_Name()": {
+          "Lines": {
+            "11": 3
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Commands.CreatePersonPreProcessor": {
+        "System.Threading.Tasks.Task StargateAPI.Business.Commands.CreatePersonPreProcessor::Process(StargateAPI.Business.Commands.CreatePerson,System.Threading.CancellationToken)": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "25": 0,
+            "27": 0,
+            "28": 0
+          },
+          "Branches": [
+            {
+              "Line": 25,
+              "Offset": 155,
+              "EndOffset": 157,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 25,
+              "Offset": 155,
+              "EndOffset": 168,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void StargateAPI.Business.Commands.CreatePersonPreProcessor::.ctor(StargateAPI.Business.Data.StargateContext)": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Commands.CreatePersonHandler": {
+        "System.Void StargateAPI.Business.Commands.CreatePersonHandler::.ctor(StargateAPI.Business.Data.StargateContext)": {
+          "Lines": {
+            "35": 1,
+            "36": 1,
+            "37": 1,
+            "38": 1
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Commands.CreatePersonHandler/<Handle>d__2": {
+        "System.Void StargateAPI.Business.Commands.CreatePersonHandler/<Handle>d__2::MoveNext()": {
+          "Lines": {
+            "40": 1,
+            "44": 1,
+            "45": 1,
+            "46": 1,
+            "47": 1,
+            "49": 1,
+            "51": 1,
+            "53": 1,
+            "54": 1,
+            "55": 1,
+            "56": 1,
+            "58": 1
+          },
+          "Branches": []
+        }
+      },
+      "StargateAPI.Business.Commands.CreatePersonResult": {
+        "System.Int32 StargateAPI.Business.Commands.CreatePersonResult::get_Id()": {
+          "Lines": {
+            "63": 1
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

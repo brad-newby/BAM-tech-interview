@@ -1,0 +1,94 @@
+@use '@angular/material' as mat;
+
+.toolbar {
+    @include mat.toolbar-overrides((
+      container-background-color: rgb(51, 87, 245),
+      container-text-color: white,
+    ));
+}
+
+.title-center {
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+  }
+
+.searchButton {
+    width: 30%;
+    background-color:rgb(51, 87, 245);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    cursor: pointer;
+    margin: auto;
+    margin-right: 10px;
+    margin-left: 5px;
+}
+
+.submitButton {
+    width: 30%;
+    background-color:rgb(51, 87, 245);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    cursor: pointer;
+    margin: auto;
+}
+
+.search-card {
+    margin:auto;
+}
+
+.info-card {
+    max-width: 100%;
+    margin: auto;
+}
+  
+.example-header-image {
+    background-image: url('https://material.angular.dev/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+}
+
+.main-content {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    min-width: 150px;
+    max-width: 500px;
+}
+
+.second-content {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+    margin: auto;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+
+  .example-button-row {
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .example-submit-button-row {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+  }

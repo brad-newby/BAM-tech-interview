@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA71C904-2E24-CA7B-082F-D50A8A53BA59}|StargateAPI.csproj|c:\\users\\brad\\documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\controllers\\astronautdutycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA71C904-2E24-CA7B-082F-D50A8A53BA59}|StargateAPI.csproj|solutionrelative:controllers\\astronautdutycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA71C904-2E24-CA7B-082F-D50A8A53BA59}|StargateAPI.csproj|c:\\users\\brad\\documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA71C904-2E24-CA7B-082F-D50A8A53BA59}|StargateAPI.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AstronautDutyController.cs",
+              "DocumentMoniker": "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Controllers\\AstronautDutyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AstronautDutyController.cs",
+              "ToolTip": "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Controllers\\AstronautDutyController.cs",
+              "RelativeToolTip": "Controllers\\AstronautDutyController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T06:21:45.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\Brad\\Documents\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Controllers\\PersonController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwE8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T06:07:20.124Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
